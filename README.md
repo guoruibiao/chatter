@@ -1,6 +1,10 @@
 # chatter
 :robot: a chatter in console
 
+
+ :lollipop: <a href="https://github.com/guoruibiao/chatter/raw/master/panda.rar">Download</a>
+
+
 ---
 
 ## description
