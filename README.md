@@ -2,7 +2,7 @@
 :robot: a chatter in console
 
 
- :lollipop: <a href="https://github.com/guoruibiao/chatter/raw/master/panda.rar">Download</a>
+<a href="https://github.com/guoruibiao/chatter/raw/master/panda.rar"><img src="https://github.com/guoruibiao/chatter/raw/master/images/panda.png">---------Download</a>
 
 
 ---
