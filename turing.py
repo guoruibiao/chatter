@@ -99,7 +99,7 @@ def switch(result):
 # 根据关键字的不同，组装出不同的post数据，以便于获取不同的结果集
 def main(url='http://www.tuling123.com/openapi/api', text='你好'):
     payload = {
-        'key': '318089813107c57c883dd1ce68c1bf70',
+        'key': 'your appkey',
         'info': text,
         # userid 官网上说是针对每一个用户实现的不同的编号即可，这里随意指定不重复即可
         'userid': '1357924680'
