@@ -9,7 +9,7 @@
 
 ## description
 
-:heart: Here is a robot:robot: in console, which can speek Chinese and Elglish with you.
+:heart: Here is a robot:robot: in console, which can speek Chinese with you.
 
 ```
 python turing.py
